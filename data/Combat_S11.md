@@ -1,0 +1,65 @@
+**Round 4**
+- HGa21 moves closer to the fight, attacks [[AhaTi]]
+	- 19 to hit, 10 DMG
+- LTd20 moves closer to the fight
+- HGd19 moves closer to the fight
+- Pa19 _male tiefling silken red skin, black hair_ runs away
+- Pb18 cries out to be unbound
+- [[Justen]] attacks [[Dragonclaw]]d6
+	- 8 to hit, miss
+	- 11 to hit, miss
+	- calls for a retreat, [[Cin]] encourages to free some prisoners
+	- moves to flee
+		- R: AoO, [[Dragonclaw]]d6, 7 to hit, miss
+- Pc15 _female dwarf_ says that behind the biggest tent is another prisoner that might be [[Leosin Erlanthar]]
+- [[Cin]] calls out that [[Leosin Erlanthar]] might be behind the biggest tent and we have to save at least him (_the big tent has 5 colored flags on it_)
+	- tries to cast [[Toll the Dead]] at [[Dragonclaw]]d6, [[Arcana]]: 24
+		- [[WIS SAV]]: 2 - FAIL
+			- 10 Necrotic DMG
+				- [[Dragonclaw]]d6 is [[Dead]], [[Kill Cin]]
+- _An Alarm is sounded for the whole camp_
+- [[Ofeus]] casts [[Unseen Servant]] as an action and commands it to go into a tent and shake the tent as a distraction
+- HGb13 attacks [[Cin]]
+	- 13 to hit, miss
+- [[Cultist]]a12 moves closer to the fight
+- [[Cultist]]b12 moves closer to the fight
+- [[Cultist]]c11 moves closer to the fight
+- [[Venatrix]] attacks HGb13
+	- x to hit, 4 DMG
+- [[AhaTi]] tries to crawl into a tent nearby
+	- [[Acrobatics]]: 21
+	- gets into the tent and lays onto the ground
+- HGc6 attacks [[Cin]]
+	- 12 to hit, miss
+- [[Cultist]] d6 moves closer to the fight
+- LTa5 moves closer to the fight
+- [[Cultist]] e5 moves closer to the fight
+- LTb4 moves closer to the fight
+- LTc2 moves closer to the fight directly in front of [[Cin]]
+
+**Round 5**
+_A second alarm bell is heard_
+- HGa21 moves closer to the fight
+- LTd20 moves closer to the fight
+- HGd19 moves closer to the fight
+- Pa19 flees
+- [[Justen]] dashes to flee
+- [[Kobold]]e16 attacks [[Justen]]
+	- 17 to hit, 4 DMG
+- [[Kobold]]h15 attacks [[Justen]]
+	- 19 to hit, 6 DMG
+		- [[Justen]] falls [[Unconscious]] and [[Prone]]
+- [[Cin]] takes out his [[Paper Bird]] and hides it between his teeth and cheek, falls to his knees, let's his backpack fall down and surrenders
+- [[Ofeus]] runs to [[Cin]] and surrenders as well
+- HGb13 runs
+- [[Cultist]]a12 runs
+- [[Cultist]]b12 runs
+- [[Cultist]]c11 runs
+- [[Venatrix]] surrenders
+- HGc6 runs
+- [[AhaTi]] casts [[Disguise Self]] and eats some leaves out of her bag to throw up
+- [[Cultist]]d6 runs
+- LTa5 runs 
+- [[Cultist]]e5 runs
+- LTb4 runs
+- LTc2 runs

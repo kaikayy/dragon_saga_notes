@@ -1,0 +1,87 @@
+[[Recap - Cin]]
+
+[[Cin]] starts frantically packing up his things
+- [[Ofeus]] packs up as well
+- [[Rorsta]] says that she didn't expect such a sudden escalation
+- [[AhaTi]] silently watches her bloody blade
+
+We arrive back at the cliff watching over the [[Cultist Camp]]
+- the embers of the big fire seem to have quenched
+	- [[Cin]], [[Perception]]: 7
+		- There still seem to be shadows near the entrance of the [[Hatchery]]
+- [[Justen]], [[Perception]]: [[Nat.20]] (23) - looks for a place to fasten a rope to
+	- notices some tree roots 20ft from the top of the [[Hatchery]] cave entrance
+	- attaches the rope to the root
+- We all jump down at the count of 3 for [[Ofeus]] to cast [[Feather Fall]]
+	- we glide down and ready ourselves to fight the guards at the entrance
+	- [[Rorsta]] goes ahead and peaks into the entrance
+	- [[Stealth]]:
+		- [[Rorsta]], x
+		- [[AhaTi]], 11
+		- [[Cin]], 15
+		- [[Justen]], 13
+		- [[Ofeus]], 15
+		- Average, ⌀13,5
+	- [[Rorsta]] signs for two guards pretty far into the cave
+	- [[Ofeus]] takes the [[Wand of Pyrotechnics]] and fires toward the cave entrance to lure out the Guards
+		- [[Cin]], [[Perception]]: 7 - can hear footsteps but not anymore
+	- [[Ofeus]] peaks around the corner of the entrance, no one there, he fires the [[Wand of Pyrotechnics]] again
+		- nothing happens... again
+- We go into the [[Hatchery]] cave, sneaking
+	- [[Ofeus]] grabs [[Cin]]'s hand as to not cast [[Light]] to not alert anyone
+	- We hear swords being drawn and are surprised by [[Dragonclaw]]'s jumping out of enclaves in the walls and pillars
+	- ### [[Combat_S22]]
+	- [[Ofeus]] casts [[Light]] on his [[Hat of Wizardry]]
+		- searches the [[Dragonclaw]] and finds
+			- a black [[Cultists' Brooch]]
+			- a Scimitar
+	- [[Cin]] asks [[AhaTi]] for healing
+		- 2 HP
+	- [[AhaTi]] casts [[Cure Wounds]] on [[Ofeus]]
+		- 8 HP
+
+We continue into the cave of the [[Hatchery]]
+- MO:
+	- [[Rorsta]]
+	- [[Ofeus]]
+	- [[Cin]]
+	- [[AhaTi]]
+	- [[Justen]]
+- [[Rorsta]] points upwards and we can see teeming movement, the whole ceiling of the cave is littered with bats
+	- [[Stealth]]:
+		- [[Rorsta]], 14
+		- [[AhaTi]], 12
+		- [[Cin]], 20
+		- [[Justen]], 13
+		- [[Ofeus]], 10
+		- Average, ⌀13,8
+- We come to a crossroads
+	- [[Justen]] tries to look for some trace footprints
+		- [[Survival]]: 18
+			- There seem to be many [[Kobold]] footprints going in every direction
+	- We decide to go west on flat ground
+		- [[Justen]] notices that all the footprints take one small path through this wide opening
+			- we follow this path carefully
+	- [[Rorsta]] gestures to be quiet as we see a handful [[Kobold]]s rummaging through a pile of worthless belonging and bickering about ownership
+- We go back to the crossroads and continue on the stairs down eastward
+	- [[Justen]] checks the stairs for traps
+		- [[Perception]]: 22 - Notices a stairstep that has holes in it and should be avoided
+	- We arrive in a room reeking of old blood, chains reach from the four pillars and cadavers of different animals hang from the sealing and pillars
+	- All go back up the stairs
+		- [[Cin]] looks around for any more exotic animals
+			- notices a sabre toothed large cat
+			- tries to cut out the sabre tooth
+				- [[Sleight of Hand]]: [[Nat.20]] (22)
+			- tries to determine the age of the cadavers
+				- [[Investigation]]: 20
+				- One Tenday ago they were fresh
+- [[Cin]] instructs the others of his findings and says that we might not find anything here
+- We go north down two 10ft. slopes
+	- there is a shallow pit filled with rubble, belts, chests, destroyed lanterns, books and furniture
+- We plan to try to scare away the [[Kobold]]s to not fight or talk with them
+	- [[AhaTi]] goes to scare away the [[Kobold]]s in her eldritch form while everyone else hides behind the first slope
+		- [[Intimidation]]: 19
+		- The [[Kobold]]s run further into the cave screaming
+	- [[AhaTi]] comes back and reports
+- We go further westward with the wizards now at the end of the Marching Order
+	- Scratching can be heard and eyes seen through the darkness down a slope reveal three [[Guard Drake]]s who engage to attack us
