@@ -1,0 +1,2 @@
+#Organization 
+The Heralds of Faerûn, were a quasi-independent group of historians and heraldists that took on the responsibility of recording, preserving, and policing the coats of arms, flags, standards, shields, badges, mottoes, symbols, and sigils of the nobility of [[Faerûn]].

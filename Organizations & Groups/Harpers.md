@@ -1,0 +1,2 @@
+#Organization #Faction
+The Harpers, or Those Who Harp, were a semi-secret organization dedicated to preserving historical lore, maintaining the balance between nature and civilization, and defending the innocent from the forces of evil across the Realms.

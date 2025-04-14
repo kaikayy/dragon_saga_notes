@@ -1,0 +1,1 @@
+#NPC/Enemy #NPC/alive 

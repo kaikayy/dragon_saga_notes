@@ -1,0 +1,126 @@
+Recap - [[DM]]
+
+We talk to [[Rorsta]] in her house in [[Leilon]]
+- [[AhaTi]] tries to explain our plan and situation to [[Rorsta]]
+	- [[Rorsta]] says she can help us and begins to dust-off [[Isa]], her Hammer
+	- We describe our approach and that it might not even be needed
+- [[Rorsta]] says she can be ready in half a day if she is needed
+- We want to pursue the Dragon [[Lhammaruntosz]] first, so we decide to meet up with [[Rorsta]] again after that
+
+We look for the Council of [[Leilon]] in the town hall to ask for further information on the Quest and what reward it might bring
+- arriving at the town hall, the door is slightly ajar and we knock and go inside
+	- at a large round table, a female half-elf is busy with paperwork
+		- the reward is 100gp
+		- there was an active organization around the bronze dragon that used to support [[Leilon]] in the [[Times of Troubles]]
+			- As they aren't around any longer and the shrine shifts in position, they don't know it's exact location
+
+We keep close to the coast and start to travel north from [[Leilon]], keeping an eye out for [[Lhammaruntosz]] and anything we may be able to cook for the evening
+- [[Ofeus]], [[Perception]]: 16
+- We travel around half a day, as fog and rain starts to set in
+	- going forward the rain grows stronger and stronger
+	- we spot the cliff that looks like a dragon roaring coming up before us
+	- we go closer looking for a way to get up
+	- [[Ofeus]] looks for a way inside at the back of the statue, [[Investigation]]: 21
+		- notices a small staircase cut into the stone, a cave entrance going down
+
+We go into the cave
+- MO: [[Ofeus]], [[AhaTi]], [[Cin]], [[Justen]]
+- There is a light at the end of the tunnel, as the sound of the raid subsides and the air gets colder we come into a circular room, lit by small braziers with blue flames
+	- A giant marble statue dominates the middle of the room, around it, thousands of gold coins, gems and jewellery lay on the floor
+	- [[Justen]], [[Perception]]: 14
+		- There seems to be no other person or creature around
+	- There are a few skeletons strewn about on the walls
+- [[AhaTi]] asks [[Cin]] if she might die if she takes a coin
+	- [[Cin]] answers that, that might be the case, or worse
+- We explore the shrine a bit further and find old dusty sleeping quarters and graves with nameplates chiseled into the walls, a plague reads: "Keep silent in honor of the fallen."
+	- Aeris, Gwendal, Oristran, Cobril, no dates
+	- We go through the corridor without saying a word
+		- A voice behind us echoes of soft "Thank you." as a female human in spectral form appears
+			- She tells us that the shrine wasn't visited for hundreds of years, and asks why we're here
+			- [[AhaTi]] answers
+			- She says that the [[Order of the Scaly Eye]] is no more and only one, [[Lhammaruntosz]], is left, she has gone insane, hearing voices, attacking and lashing out, not being able to help anyone anymore
+				- She just isn't herself anymore
+			- She calls herself [[Telna]]
+				- Everyone who approaches [[Lhammaruntosz]] must prove they're pure of heart in a challenge of will
+			- She describes how we can get to [[Lhammaruntosz]] to ask her for a vision
+- We follow the instructions and arrive in a room with 4 stone pillars and walls depicting different metallic dragons, script in Draconic and a hole in the ground leading to the raging sea
+- We ascend the staircase, [[Cin]] casts [[Gift of Alacrity]] on [[Ofeus]]
+	- A presence can be felt while climbing the first stair
+		- [[Ofeus]], [[CHA SAV]]: [[Nat.20]] (19) - SAVE
+		- [[AhaTi]], [[CHA SAV]]: 10 - FAIL
+			- is [[Charmed]] and has visions of a Mother Lizard and feels the need to throw herself into the raging sea
+			- [[Initiative]]:
+				- [[Justen]]: 21
+				- [[Ofeus]]: 18
+				- [[AhaTi]]: 11
+				- [[Cin]]: 9
+			- [[Justen]] grabs [[AhaTi]] to stop her
+				- [[Athletics]]: 21 vs. [[Acrobatics]]: 10
+				- stops her from jumping, she seems out of herself
+			- [[Cin]], [[Arcana]]: [[Nat.20]] (25), tries to see what ails [[AhaTi]]
+				- There is an ancient and powerful charm affecting her
+				- This trap is very old
+			- [[Ofeus]] suggest to restrain her with rope
+				- [[Justen]] does so
+			- [[AhaTi]] sees the depictions on the walls in bright colors, they seem beautiful
+			- [[Cin]] and [[Ofeus]] try to find the texts on the walls to notice anything
+				- There is a repeating pattern, but nothing is legible
+				- [[Ofeus]] copies it into his book
+			- [[Cin]] tries to remember anything against charms
+				- [[History]]: 23
+				- Dispels against charms and magics, most are also time sensitive and don't last too long
+			- [[Ofeus]] tries to see if anything on the walls is newer than the other depictions
+				- [[Investigation]]: [[Nat.20]] (25), everything is from the same age
+			- [[Justen]] gives [[Ofeus]] the end of another rope and ties the other end to a pillar
+				- going up the stairs, nothing more happens
+		- [[Cin]] tries to jump the first stairs, [[CHA SAV]]: 8, Chronal Shift, 4
+			- feels very hot and wants to jump into the sea in the middle
+				- [[Initiative]]:
+					- [[Justen]]: 15
+					- [[Cin]]: 8
+					- [[Ofeus]]: 20
+				- [[Ofeus]] tries to grapple [[Cin]]
+					- [[Athletics]]: 17 vs. [[Acrobatics]]: 21
+					- [[Cin]] breaks free
+				- [[Justen]] tries to grapple [[Cin]]
+					- [[Athletics]]: 5, [[Inspiration]] ([[Ofeus]]), 4, [[Inspiration]] ([[Cin]]), 16 vs. [[Acrobatics]]: 9
+					- grapples him and restrains him to the other pillar
+				- [[Cin]] calls out "Mother Lizard" as well and casts [[Message]] to tell [[Ofeus]] "Mother Lizard"
+		- [[Ofeus]] casts [[Hideous Laughter]] on [[Cin]]
+			- [[WIS SAV]]: 14 - SAVE
+		- [[Ofeus]] casts an illusion to raise the water
+			- [[INT SAV]]: 19 - SAVE
+		- [[AhaTi]] blinks and is no longer [[Charmed]], she doesn't remember what happened
+			- yells to get freed and casts the illusion of a giant hound ready to attack
+			- [[Ofeus]] looks through the illusion, [[Investigation]]: 22
+		- [[Cin]] tries to mimic [[AhaTi]]'s words, [[Deception]]: 5
+			- no one believes him
+		- [[Cin]] casts [[Catapult]] at [[Ofeus]]
+			- [[DEX SAV]]: 4 - FAIL
+				- 9 DMG
+		- [[Justen]] gags [[Cin]] after [[Ofeus]] is hit in the head by a pebble
+		- [[AhaTi]] tries to talk in a dark voice telepathically to [[Cin]]
+			- [[Deception]]: 21
+			- Mother Lizard tells him to not go into the water as it is her swimming grounds
+		- [[Cin]] now looks at the depictions on the walls as they sparkle in his vision
+		- [[AhaTi]] heals [[Ofeus]] for 2 HP
+	- ##### Short Rest (Start)
+		- Everyone but [[Cin]]
+	- ##### Short Rest (End)
+	- [[Cin]] looses the Charm and regains his consciousness
+		- casts [[Encode Thoughts]] of his gap in memory
+	- [[Ofeus]] casts [[Message]] to tell [[Cin]] that he hasn't prepared [[Encode Thoughts]] anymore
+	- [[Justen]] un-gags [[Cin]] and he tries to explain himself
+		- frees him
+	- [[Cin]] throws [[Ofeus]] the [[Hat of Wizardry]] as he might use it more wisely
+	- [[AhaTi]] jumps onto the stairs, nothing happens
+	- [[Ofeus]] goes down the stairs and back up, nothing happens
+	- We use the rope to bind [[Justen]] to just allow him to enter the stairs to try to go up and not fall down if he goes temporarily insane
+		- [[Justen]], [[CHA SAV]]: 6 - FAIL
+			- [[AhaTi]] casts [[Sleep]] on [[Justen]]
+				- 27 - He falls asleep
+	- ##### Short Rest (Start)
+		- Everyone but [[Justen]]
+	- ##### Short Rest (End)
+	- [[Justen]] is no longer charmed and we free him as well
+- We go up the staircase and arrive in a chamber with two large windows crusted by the salty air, bronze scales litter the floor as an adult bronze dragon sits looking out of the window, she turns to us asking: "Are you the voices?"
